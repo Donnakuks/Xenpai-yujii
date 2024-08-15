@@ -31,13 +31,13 @@
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhail-whatsapp-bot/fork)***
    
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=replit)***  
-7.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
-8.  ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
-9.  ***Deploy on [`CodeSpace`](https://suhail-web01.vercel.app/deploy?platform=codespace)***
-10. ***Deploy on [`Render`](https://suhail-web01.vercel.app/deploy?platform=render)***
-11. ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway)***
+5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
+6.  ***Deploy on [`Replit`](https://suhail-web.vercel.app/deploy?platform=replit)***  
+7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
+8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
+9.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
+10. ***Deploy on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
+11. ***Deploy on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
 ##
 
 
