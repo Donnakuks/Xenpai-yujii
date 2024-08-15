@@ -1,7 +1,7 @@
 # SUHAIL-X (V2)
 <p align="center">
   <a href="https://youtube.com/c/SuhailTechInfo">
-    <img alt="secktor docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/9dcef2b49909742db8dbd.jpg">
+    <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/9dcef2b49909742db8dbd.jpg">
   </a>
 </p>
   
@@ -29,7 +29,7 @@
 ---
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  *** `Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhail-whatsapp-bot/fork)***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhail-whatsapp-bot/fork)***
    
 5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=replit)***  
@@ -37,6 +37,7 @@
 8.  ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
 9.  ***Deploy on [`CodeSpace`](https://suhail-web01.vercel.app/deploy?platform=codespace)***
 10. ***Deploy on [`Render`](https://suhail-web01.vercel.app/deploy?platform=render)***
+11. ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway)***
 ##
 
 
