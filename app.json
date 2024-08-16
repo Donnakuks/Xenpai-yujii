@@ -1,5 +1,5 @@
 {
-  "name": "Xenpai-yujii🀄",
+  "name": "Xenpai-yujii",
   "description": "I am Xenpai-yujii Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
  "logo":"https://telegra.ph/file/668659900721c3ef948c5.jpg",
  
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Xenpai-yujii🀄🌻"
+      "value": "Xenpai-yujii"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
