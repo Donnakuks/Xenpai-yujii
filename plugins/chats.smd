@@ -17,20 +17,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *```
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
+   * @project_name : Xenpai-yujii
+   * @author : Xenpai-Dark 
    * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @description : xenpai-yujii ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Donnakuks Tech Info.
+   * © 2024 xenpai-yujii.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let xenpai-yujii = "XENPAI-YUJIi Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
