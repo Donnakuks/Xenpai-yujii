@@ -81,7 +81,7 @@
 
 <h3>XENPAI-YUJI Stats</h3>
 
-![XENPAI-YUJI Stats](https://github-readme-stats.vercel.app/api/pin/?username=Donnakuks&repo=xenpai-yuji&show_owner=true&theme=dark)
+![XENPAI-YUJI Stats](https://github-readme-stats.vercel.app/api/pin/?username=Donnakuks&repo=xenpai-yujii&show_owner=true&theme=dark)
 
 
     
