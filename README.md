@@ -90,9 +90,6 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-
-## Deployment Methods
----
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Donnakuks/Xenpai-yujii/fork)***
