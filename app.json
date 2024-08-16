@@ -95,7 +95,7 @@
     },
     "PACK_NAME": {
       "description": "ⓘ",
-      "value": "🀄🀄",
+      "value": "",
       "required": false 
     },
     "PACK_AUTHER": {
